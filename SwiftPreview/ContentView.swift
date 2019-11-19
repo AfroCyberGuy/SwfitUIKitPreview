@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftPreview
 //
-//  Created by Tatenda Kabike on 2019/11/19.
+//  Created by Tatenda Kabike 
 //  Copyright © 2019 Tatenda Kabike. All rights reserved.
 //
 
